@@ -1,6 +1,6 @@
 # [level 2] 특정 물고기를 잡은 총 수 구하기 - 298518 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298518#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298518) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 23일 18:18:14
+2024년 06월 23일 18:19:05
 
 ### 문제 설명
 
